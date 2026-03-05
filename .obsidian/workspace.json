@@ -6,7 +6,6 @@
       {
         "id": "e39b4c02ff80f507",
         "type": "tabs",
-        "dimension": 70.37351443123939,
         "children": [
           {
             "id": "f56c3e529ee3e3e0",
@@ -21,25 +20,23 @@
               "icon": "lucide-file",
               "title": "「社員旅行」復活の兆し？街の声は⋯「同じ部屋が気まずい」「世代間ギャップ縮まる」"
             }
-          }
-        ]
-      },
-      {
-        "id": "0983bdc2e49728a0",
-        "type": "tabs",
-        "dimension": 29.626485568760614,
-        "children": [
+          },
           {
-            "id": "abebd3d4a46dbe7b",
+            "id": "4590a8c0c310eae2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "＜今、若者がハマる観葉植物「家をジャングルにしたい」「壁から生えているよう」需要変化に農家も100種以上で対応.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "＜今、若者がハマる観葉植物「家をジャングルにしたい」「壁から生えているよう」需要変化に農家も100種以上で対応"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +196,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "f56c3e529ee3e3e0",
+  "active": "4590a8c0c310eae2",
   "lastOpenFiles": [
     "「社員旅行」復活の兆し？街の声は⋯「同じ部屋が気まずい」「世代間ギャップ縮まる」.md",
+    "＜今、若者がハマる観葉植物「家をジャングルにしたい」「壁から生えているよう」需要変化に農家も100種以上で対応.md",
     "Welcome.md"
   ]
 }
