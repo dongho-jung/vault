@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "＜今、若者がハマる観葉植物「家をジャングルにしたい」「壁から生えているよう」需要変化に農家も100種以上で対応"
             }
+          },
+          {
+            "id": "e83b113c4ed1d4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "スマホ漬け記者が「ぼーっとする大会」で考えた「人生の余白」とは.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "スマホ漬け記者が「ぼーっとする大会」で考えた「人生の余白」とは"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +210,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4590a8c0c310eae2",
+  "active": "e83b113c4ed1d4b3",
   "lastOpenFiles": [
-    "「社員旅行」復活の兆し？街の声は⋯「同じ部屋が気まずい」「世代間ギャップ縮まる」.md",
     "＜今、若者がハマる観葉植物「家をジャングルにしたい」「壁から生えているよう」需要変化に農家も100種以上で対応.md",
+    "スマホ漬け記者が「ぼーっとする大会」で考えた「人生の余白」とは.md",
+    "「社員旅行」復活の兆し？街の声は⋯「同じ部屋が気まずい」「世代間ギャップ縮まる」.md",
     "Welcome.md"
   ]
 }
