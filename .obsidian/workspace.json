@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "＜揚げたて！焼きたて！が魅力　”未完成グルメ”の楽しみ方とは＞"
             }
+          },
+          {
+            "id": "328f20f6458a7cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI時代こそ深まる外国学習の意義　「思考力のOSアップデート」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI時代こそ深まる外国学習の意義　「思考力のOSアップデート」"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,10 +252,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "068322cfd297fc8b",
+  "active": "328f20f6458a7cd8",
   "lastOpenFiles": [
-    "元ゴールドマンサックスの仕事術と習慣.md",
     "＜揚げたて！焼きたて！が魅力　”未完成グルメ”の楽しみ方とは＞.md",
+    "AI時代こそ深まる外国学習の意義　「思考力のOSアップデート」.md",
+    "元ゴールドマンサックスの仕事術と習慣.md",
     "毎朝3時45分起床、元ゴールドマンサックス人生変えた運動習慣.md",
     "スマホ漬け記者が「ぼーっとする大会」で考えた「人生の余白」とは.md",
     "＜今、若者がハマる観葉植物「家をジャングルにしたい」「壁から生えているよう」需要変化に農家も100種以上で対応.md",
